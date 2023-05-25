@@ -1,6 +1,6 @@
-### Federico B. Giordani –– @fredgrd
+### Federico B. Giordani – @fredgrd
 
-🧮 Former quant turned software developer with a passion for building innovative solutions.
+Hi, I'm Federico – a former quant turned software developer with a passion for building innovative solutions.
 
 🌱 Currently, I'm expanding my skill set by delving deeper into iOS development. I'm always on the lookout for collaborative opportunities where I can contribute my expertise in development and data analysis to tackle real customer problems.
 
