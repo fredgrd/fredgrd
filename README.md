@@ -1,22 +1,17 @@
 ### Federico B. Giordani – @fredgrd
 
-Hi, I'm Federico – a former quant turned software developer with a passion for building innovative solutions.
+👋 Hi, I'm Federico, but I go by Fed. 
 
-🌱 Currently, I'm expanding my skill set by delving deeper into iOS development. I'm always on the lookout for collaborative opportunities where I can contribute my expertise in development and data analysis to tackle real customer problems.
+I’m a quant-turned-software-engineer with a passion for getting my hands dirty and finding innovative and creative methods to solve technical problems. 
 
-<!--
-**fredgrd/fredgrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about learning new technologies and getting out of my comfort zone to hit business and personal goals.
 
-Here are some ideas to get you started:
+👨‍💻 Ask me about TypeScript · Node.js · Python · Express.js · React · Redux · MongoDB · Mongoose · AWS · Fly.io · Docker.
 
-🌱 Currently, I'm expanding my skill set by delving deeper into front-end development. I'm always on the lookout for collaborative opportunities where I can contribute my expertise in product management, data analysis, or front-end skills to tackle real customer problems.
+💡 I’m interested in universal APIs, turning roadblocks into opportunities, and everything product related.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Now diving into the nitty-gritty of iOS development. 
+
+🤓 Always on the lookout for new opportunities where I can apply my skills to tackle complex customer problems and level-up my expertise.
+
+✉️ Drop me a message here on GitHub.
