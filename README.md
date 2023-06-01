@@ -14,4 +14,4 @@ Passionate about learning new technologies and getting out of my comfort zone to
 
 🤓 Always on the lookout for new opportunities where I can apply my skills to tackle complex customer problems and level-up my expertise.
 
-✉️ Drop me a message here on GitHub.
+✉️ Drop me a message on my email or linkedin.
