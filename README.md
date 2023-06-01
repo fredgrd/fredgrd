@@ -6,7 +6,7 @@ I’m a quant-turned-software-engineer with a passion for getting my hands dirty
 
 Passionate about learning new technologies and getting out of my comfort zone to hit business and personal goals.
 
-👨‍💻 Ask me about TypeScript · Node.js · Python · Express.js · React · Redux · MongoDB · Mongoose · AWS · Fly.io · Docker.
+👨‍💻 Ask me about TypeScript · Node.js · Python · Express.js · WebSockets · React · Redux · MongoDB · Mongoose · AWS · Fly.io.
 
 💡 I’m interested in universal APIs, turning roadblocks into opportunities, and everything product related.
 
