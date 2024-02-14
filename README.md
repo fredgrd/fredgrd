@@ -10,7 +10,7 @@ Passionate about learning new technologies and getting out of my comfort zone to
 
 💡 I’m interested in universal APIs, turning roadblocks into opportunities, and everything product related.
 
-🌱 Now diving into the nitty-gritty of C# development. 
+🌱 Now diving into the nitty-gritty of Go development. 
 
 🤓 Always on the lookout for new opportunities where I can apply my skills to tackle complex customer problems and level-up my expertise.
 
