@@ -1,17 +1,1 @@
 ### Federico B. Giordani – @fredgrd
-
-👋 Hi, I'm Federico, but I go by Fed. 
-
-I’m a quant-turned-software-engineer with a passion for getting my hands dirty and finding innovative and creative methods to solve technical problems. 
-
-Passionate about learning new technologies and getting out of my comfort zone to hit business and personal goals.
-
-👨‍💻 Ask me about Python · TypeScript · Swift · Node.js · Express.js · WebSockets · React · Redux · MongoDB · AWS · Fly.io.
-
-💡 I’m interested in universal APIs, turning roadblocks into opportunities, and everything product related.
-
-🌱 Now diving into the nitty-gritty of Go development. 
-
-🤓 Always on the lookout for new opportunities where I can apply my skills to tackle complex customer problems and level-up my expertise.
-
-✉️ Drop me a message on my email or linkedin.
